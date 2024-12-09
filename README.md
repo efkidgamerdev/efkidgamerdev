@@ -45,7 +45,7 @@ while(learning){
 
 ### 📊 GitHub Stats
 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankkaumba&show_icons=true&theme=radical)
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efkidgamerdev&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect!
 
