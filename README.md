@@ -49,9 +49,9 @@ while(learning){
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/frankkaumba)
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/frankkaumba)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:frankkaumba@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=github)](https://www.github.com/in/efkidgamerdev)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=facebook)](https://facebook.com/efkidtrapgamer)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:efkidgamer@gmail.com)
 
 ---
 
