@@ -45,6 +45,12 @@ while(learning){
 
 ### 📊 GitHub Stats
 
+### Visitor's Count:
+
+<a align="center" href="https://profile-counter.glitch.me/{frank-kaumba}/count.svg">
+
+  ![VisitorCount](https://profile-counter.glitch.me/{frank-kaumba}/count.svg) 
+
 ![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efkidgamerdev&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect!
