@@ -38,10 +38,10 @@ while(learning){
 
 ### 🌟 Fun Facts About Me
 
-- 🍲 Love trying out new recipes when not coding
-- 🏀 Basketball enthusiast
-- 🌍 Passionate about technology's potential to transform lives
-- 📖 Always carrying a notebook for spontaneous ideas
+- 🎮am a gamer both on Android and computer 
+- ⚽l like watching football and l am an arsenal fan
+- 🌍 am always open and am ready to make new friends 
+- 📖 l like reading novels ...so if u got any recommendations link me up
 
 ### 📊 GitHub Stats
 
