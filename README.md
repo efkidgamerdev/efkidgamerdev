@@ -2,14 +2,14 @@
 
 ## 🌍 Coding Adventurer from Malawi
 
-Welcome to my digital playground! I'm a passionate developer from the beautiful heart of Africa, turning lines of code into dreams and solutions.
+Welcome to my GitHub account! I'm a small learning developer from the beautiful heart of Africa, 🫡.
 
 ### 🚀 About Me
 
 - 📍 **Location:** Malawi, Africa
 - 💻 **Aspiring Developer:** Turning curiosity into creation
 - 🌱 **Learning Journey:** Embracing the world of technology
-- 🎯 **Mission:** Build solutions that make a difference in my community
+- 🎯 **Mission:** making cool repo for people to fork
 
 ### 🛠 Tech Stack I'm Exploring
 
@@ -31,7 +31,7 @@ while(learning){
 
 ### 🏆 Goals & Dreams
 
-- 🌐 Create tech solutions for African communities
+- 🌐 creating cool websites 
 - 📚 Continuous learning and skill development
 - 💡 Contribute to open-source projects
 - 🤝 Connect with global developers
